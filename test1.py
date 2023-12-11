@@ -1,0 +1,5 @@
+name=input("your name= ")
+family=input("your family = ")
+grade=input("your grade= ")
+avg=input("your avg= ")
+print("Hi",name,family,"your grade is ",grade," and your avg is",avg)
